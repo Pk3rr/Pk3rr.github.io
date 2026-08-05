@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Pk3r"
-  avatar           : "/assets/images/logos/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logos/mrrobot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ofensive Security"
   location         : "Spain"
   email            :
