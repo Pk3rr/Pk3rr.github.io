@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 # Site Settings
 locale                   : "es-EU"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Pk3r Blog"
+title                    : "Blog de Ciberseguridad Ofensiva"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pk3r"
