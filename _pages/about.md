@@ -28,4 +28,4 @@ I have also worked on projects such as developing a script to automate security 
 If you'd like to get in touch, or you're interested in following me on any social network, you'll find my details below.
 
 - **LinkedIn:** [linkedin.com/in/bilal-kerzazi](https://www.linkedin.com/in/bilal-kerzazi)
-- **GitHub:** [github.com/Bilal-Ker](https://github.com/Bilal-Ker)
+- **GitHub:** [github.com/Pk3rr](https://github.com/Pk3rr)
