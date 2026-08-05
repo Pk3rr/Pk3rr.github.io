@@ -10,7 +10,7 @@ tags:
   - infrastructure-hacking
   - review
 header:
-  teaser: /assets/images/posts/oscp-review.png
+  teaser: /assets/images/certs/oscp+.png
 excerpt: "My honest review of the OSCP exam: preparation, exam experience, lessons learned, and tips for future candidates."
 ---
 
