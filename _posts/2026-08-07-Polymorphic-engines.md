@@ -12,7 +12,7 @@ tags:
   - red-team
 excerpt: "How code learns to change its skin to fool antivirus engines, EDRs, and analysts. Polymorphic engines, encoders, modern tooling, and real-world examples."
 header:
-  teaser: /assets/images/cover/polymorphic.png
+  teaser: /assets/images/cover/polymorphic.jpg
 toc: true
 toc_label: "Contents"
 toc_icon: "bug"
