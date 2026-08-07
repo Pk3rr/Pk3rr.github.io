@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" # "dark", "air", "aqua", "contrast", "default"
 # Site Settings
 locale                   : "es-EU"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Pk3r.io"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pk3r"
