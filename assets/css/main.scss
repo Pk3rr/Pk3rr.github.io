@@ -5,10 +5,10 @@ search: false
 
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
-$sans-serif: 'Rajdhani', sans-serif;
-$monospace: 'Share Tech Mono', monospace;
+$sans-serif: 'IBM Plex Sans', sans-serif;
+$monospace: 'IBM Plex Mono', monospace;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
