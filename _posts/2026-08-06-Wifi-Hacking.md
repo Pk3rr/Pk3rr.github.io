@@ -12,7 +12,7 @@ tags:
   - wpa2-enterprise
   - pentesting
 header:
-  teaser: /assets/images/cover/wifi-hacking-cover.png
+  teaser: /assets/images/cover/wifi-hacking.jpg
 toc: true
 toc_label: "Contents"
 toc_icon: "wifi" 
