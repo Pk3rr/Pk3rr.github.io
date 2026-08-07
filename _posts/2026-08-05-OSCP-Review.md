@@ -11,6 +11,9 @@ tags:
   - review
 header:
   teaser: /assets/images/certs/oscp+.png
+toc: true
+toc_label: "Contents" 
+toc_icon: "bug" 
 excerpt: "My honest review of the OSCP exam: preparation, exam experience, lessons learned, and tips for future candidates."
 ---
 

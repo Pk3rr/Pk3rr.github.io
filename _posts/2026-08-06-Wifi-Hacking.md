@@ -12,7 +12,10 @@ tags:
   - wpa2-enterprise
   - pentesting
 header:
-  teaser: /assets/images/posts/wifi-hacking-cover.png
+  teaser: /assets/images/cover/wifi-hacking-cover.png
+toc: true
+toc_label: "Contents"
+toc_icon: "wifi" 
 excerpt: "A technical breakdown of wireless authentication mechanisms — WEP, WPS, WPA/WPA2-PSK, and WPA2-Enterprise — their weaknesses, and the tools used to assess them."
 ---
 
