@@ -10,7 +10,7 @@ tags:
   - penetration-testing
   - certification
 header:
-  teaser: /assets/images/certs/cwes.jpg
+  teaser: /assets/images/certs/cwes_cert.png
 toc: true
 toc_label: "Contents"
 toc_icon: "book-open"
