@@ -17,6 +17,8 @@ toc_icon: "book-open"
 excerpt: "My experience taking the Hack The Box Certified Web Exploitation Specialist exam."
 ---
 
+<figure><img src="/assets/images/certs/cwes_cert.png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction
 
 I recently took the **Hack The Box Certified Web Exploitation Specialist (CWES)** exam, and I wanted to share my experience with the community while keeping the exam completely spoiler-free.
